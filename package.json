@@ -1,0 +1,19 @@
+{
+  "name": "PayPLus_contracts",
+  "version": "1.0.0",
+  "description": "PayPlus+ AG smart contracts",
+  "main": "index.js",
+  "repository": "git@github.com:PayPlusAG/PLUS-contracts.git",
+  "author": "Luca Agotini <luca@payplus.ag>",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["PLUS", "PayPlus"],
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0"
+  }
+}
